@@ -37,7 +37,7 @@ body
 .parah:hover
 {
     font-weight: 600;
-    transition: 0.5s;
+    transition: 0.4s;
 }
 div
 {
@@ -54,7 +54,7 @@ div
 .h2:hover
 {
     font-size: large;
-    transition: 0.5s;
+    transition: 0.4s;
 }
 
 #footer
